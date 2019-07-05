@@ -1,0 +1,284 @@
+[
+  {
+    "SocketStart": "500, 180",
+    "SocketSize": "130, 137",
+    "TemplateValue": "30A",
+    "Value": "30A"
+  },
+  {
+    "SocketStart": "611, 226",
+    "SocketSize": "69, 48",
+    "TemplateValue": "10A",
+    "Value": "10A"
+  },
+  {
+    "SocketStart": "709, 172",
+    "SocketSize": "153, 140",
+    "TemplateValue": "40A",
+    "Value": "40A"
+  },
+  {
+    "SocketStart": "941, 119",
+    "SocketSize": "138, 138",
+    "TemplateValue": "50A",
+    "Value": "50A"
+  },
+  {
+    "SocketStart": "825, 229",
+    "SocketSize": "113, 79",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "915, 234",
+    "SocketSize": "142, 90",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "822, 280",
+    "SocketSize": "119, 94",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "670, 271",
+    "SocketSize": "176, 100",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "574, 273",
+    "SocketSize": "127, 65",
+    "TemplateValue": "7.5A",
+    "Value": "7.5A"
+  },
+  {
+    "SocketStart": "914, 289",
+    "SocketSize": "134, 69",
+    "TemplateValue": "10A",
+    "Value": "10A"
+  },
+  {
+    "SocketStart": "426, 317",
+    "SocketSize": "169, 66",
+    "TemplateValue": "15A",
+    "Value": "15A"
+  },
+  {
+    "SocketStart": "575, 320",
+    "SocketSize": "134, 71",
+    "TemplateValue": "15A",
+    "Value": "15A"
+  },
+  {
+    "SocketStart": "685, 333",
+    "SocketSize": "160, 87",
+    "TemplateValue": "30A",
+    "Value": "30A"
+  },
+  {
+    "SocketStart": "825, 337",
+    "SocketSize": "113, 71",
+    "TemplateValue": "10A",
+    "Value": "10A"
+  },
+  {
+    "SocketStart": "991, 343",
+    "SocketSize": "115, 74",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "585, 379",
+    "SocketSize": "110, 69",
+    "TemplateValue": "10A",
+    "Value": "10A"
+  },
+  {
+    "SocketStart": "675, 388",
+    "SocketSize": "180, 75",
+    "TemplateValue": "30A",
+    "Value": "30A"
+  },
+  {
+    "SocketStart": "828, 395",
+    "SocketSize": "109, 74",
+    "TemplateValue": "10A",
+    "Value": "10A"
+  },
+  {
+    "SocketStart": "918, 392",
+    "SocketSize": "119, 83",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "578, 439",
+    "SocketSize": "115, 63",
+    "TemplateValue": "15A",
+    "Value": "15A"
+  },
+  {
+    "SocketStart": "680, 450",
+    "SocketSize": "169, 62",
+    "TemplateValue": "30A",
+    "Value": "30A"
+  },
+  {
+    "SocketStart": "828, 450",
+    "SocketSize": "108, 63",
+    "TemplateValue": "7.5A",
+    "Value": "7.5A"
+  },
+  {
+    "SocketStart": "919, 464",
+    "SocketSize": "114, 79",
+    "TemplateValue": "10A",
+    "Value": "10A"
+  },
+  {
+    "SocketStart": "427, 483",
+    "SocketSize": "169, 66",
+    "TemplateValue": "30A",
+    "Value": "30A"
+  },
+  {
+    "SocketStart": "581, 479",
+    "SocketSize": "102, 69",
+    "TemplateValue": "7.5A",
+    "Value": "7.5A"
+  },
+  {
+    "SocketStart": "678, 500",
+    "SocketSize": "163, 61",
+    "TemplateValue": "25A",
+    "Value": "25A"
+  },
+  {
+    "SocketStart": "827, 494",
+    "SocketSize": "101, 79",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "912, 495",
+    "SocketSize": "119, 85",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "434, 540",
+    "SocketSize": "166, 66",
+    "TemplateValue": "30A",
+    "Value": "30A"
+  },
+  {
+    "SocketStart": "583, 545",
+    "SocketSize": "167, 70",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "725, 542",
+    "SocketSize": "115, 78",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "820, 548",
+    "SocketSize": "111, 74",
+    "TemplateValue": "10A",
+    "Value": "10A"
+  },
+  {
+    "SocketStart": "920, 554",
+    "SocketSize": "121, 70",
+    "TemplateValue": "10A",
+    "Value": "10A"
+  },
+  {
+    "SocketStart": "435, 590",
+    "SocketSize": "175, 74",
+    "TemplateValue": "10A",
+    "Value": "10A"
+  },
+  {
+    "SocketStart": "595, 591",
+    "SocketSize": "158, 69",
+    "TemplateValue": "30A",
+    "Value": "30A"
+  },
+  {
+    "SocketStart": "769, 607",
+    "SocketSize": "115, 61",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "892, 607",
+    "SocketSize": "148, 69",
+    "TemplateValue": "15A",
+    "Value": "15A"
+  },
+  {
+    "SocketStart": "433, 642",
+    "SocketSize": "58, 138",
+    "TemplateValue": "10A",
+    "Value": "10A"
+  },
+  {
+    "SocketStart": "495, 697",
+    "SocketSize": "144, 140",
+    "TemplateValue": "40A",
+    "Value": "40A"
+  },
+  {
+    "SocketStart": "609, 704",
+    "SocketSize": "143, 59",
+    "TemplateValue": "10A",
+    "Value": "10A"
+  },
+  {
+    "SocketStart": "607, 760",
+    "SocketSize": "139, 72",
+    "TemplateValue": "40A",
+    "Value": "40A"
+  },
+  {
+    "SocketStart": "752, 718",
+    "SocketSize": "137, 126",
+    "TemplateValue": "40A",
+    "Value": "40A"
+  },
+  {
+    "SocketStart": "882, 717",
+    "SocketSize": "151, 71",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "865, 765",
+    "SocketSize": "168, 79",
+    "TemplateValue": "None",
+    "Value": "None"
+  },
+  {
+    "SocketStart": "1035, 809",
+    "SocketSize": "107, 57",
+    "TemplateValue": "10A",
+    "Value": "10A"
+  },
+  {
+    "SocketStart": "1051, 164",
+    "SocketSize": "125, 199",
+    "TemplateValue": "646",
+    "Value": "646"
+  },
+  {
+    "SocketStart": "1013, 577",
+    "SocketSize": "154, 253",
+    "TemplateValue": "None",
+    "Value": "None"
+  }
+]

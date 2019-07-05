@@ -1,0 +1,13 @@
+Index: __init__.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#test\r\nprint(1+4)\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- __init__.py	(date 1550357058000)
++++ __init__.py	(date 1550357321774)
+@@ -1,2 +1,2 @@
+ #test
+-print(1+4)
++

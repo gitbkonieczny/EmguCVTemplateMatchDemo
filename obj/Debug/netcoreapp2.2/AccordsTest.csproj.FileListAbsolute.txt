@@ -1,0 +1,15 @@
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\bin\Debug\netcoreapp2.2\AccordsTest.deps.json
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\bin\Debug\netcoreapp2.2\AccordsTest.runtimeconfig.json
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\bin\Debug\netcoreapp2.2\AccordsTest.runtimeconfig.dev.json
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\bin\Debug\netcoreapp2.2\AccordsTest.dll
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\obj\Debug\netcoreapp2.2\AccordsTest.csprojAssemblyReference.cache
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\obj\Debug\netcoreapp2.2\AccordsTest.csproj.CoreCompileInputs.cache
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\obj\Debug\netcoreapp2.2\AccordsTest.AssemblyInfoInputs.cache
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\obj\Debug\netcoreapp2.2\AccordsTest.AssemblyInfo.cs
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\bin\Debug\netcoreapp2.2\AccordsTest.pdb
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\bin\Debug\netcoreapp2.2\Emgu.CV.World.dll
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\bin\Debug\netcoreapp2.2\Emgu.CV.World.xml
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\obj\Debug\netcoreapp2.2\AccordsTest.csproj.CopyComplete
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\obj\Debug\netcoreapp2.2\AccordsTest.dll
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\obj\Debug\netcoreapp2.2\AccordsTest.pdb
+C:\Users\BKC\source\repos\AccordsTest\AccordsTest\bin\Debug\netcoreapp2.2\fuse_configuration.json
